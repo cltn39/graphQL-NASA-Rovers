@@ -1,0 +1,15 @@
+{
+  "name": "graphQL-NASA-Rovers",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/cltn39/graphQL-NASA-Rovers.git",
+  "author": "gravitation <chisong@ucdavis.edu>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "graphql-yoga": "^1.18.3",
+    "node-fetch": "^2.6.0"
+  }
+}
