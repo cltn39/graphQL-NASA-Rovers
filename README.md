@@ -23,4 +23,4 @@ Detailed documentation for graphQL can be found [here](https://graphql.org/)
 
 ## Credit
 
-The application's credit goes to fellow devlopers
+The application's credit goes to Kyru Cabading, and his [github repo](https://github.com/KyruCabading/graphql-mars-rover-api)
