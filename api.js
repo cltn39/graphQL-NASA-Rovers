@@ -1,5 +1,5 @@
 const fetch = require('node-fetch');
-const API_KEY_UNSAFE = '4GMIiF8P5loAdqQiupM3cpYgDBzwYk10oe7rFUN'
+const API_KEY_UNSAFE = 'yE7mOsHTysPp0f0LzipnJ6Fs9KECdOnQmwAz1thR'
 
 const getPhotos = async(roverName) => {
     const photos = await fetch(``)
